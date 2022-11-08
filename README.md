@@ -100,5 +100,4 @@ Project Link: [https://github.com/Mo-Shoba/King-MisuZulu-Coronation](https://git
 ## :gem: Acknowledgements
 
 
- - [Advertools Package](https://advertools.readthedocs.io/en/master/)
- - [Readme Template](https://github.com/Louis3797/awesome-readme-template)
+ - [ExploreAI](https://explore-datascience.net/)
