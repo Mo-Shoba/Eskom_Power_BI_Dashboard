@@ -56,15 +56,21 @@ In this project I was presented with Eskom data. The data is included in this re
 ## :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/Mo-Shoba/Eskom_Power_BI_Dashboard/blob/main/Images/Screenshot_1.png" width="600" height="600" alt="screenshot" />
+  <img src="https://github.com/Mo-Shoba/Eskom_Power_BI_Dashboard/blob/main/Images/Screenshot_1.png" width="900" height="auto" alt="screenshot" />
 </div>
 
-<div align="center"> 
-  <img src="https://github.com/Mo-Shoba/Eskom_Power_BI_Dashboard/blob/main/Images/Screenshot_2.png" width="600" height="auto" alt="screenshot" /> 
-</div>
+
+---
+
 
 <div align="center"> 
-  <img src="https://github.com/Mo-Shoba/Eskom_Power_BI_Dashboard/blob/main/Images/Screenshot_3.png" width="600" height="auto" alt="screenshot" /> 
+  <img src="https://github.com/Mo-Shoba/Eskom_Power_BI_Dashboard/blob/main/Images/Screenshot_2.png" width="900" height="auto" alt="screenshot" /> 
+</div>
+
+---
+
+<div align="center"> 
+  <img src="https://github.com/Mo-Shoba/Eskom_Power_BI_Dashboard/blob/main/Images/Screenshot_3.png" width="900" height="auto" alt="screenshot" /> 
 </div>
 
 
